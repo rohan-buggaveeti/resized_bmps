@@ -1,6 +1,0 @@
-RUN_MODE = "random"
-
-# Can be one of the following:
-# 1. random
-# 2. jokes
-# 3. images
